@@ -4,3 +4,4 @@ from wathchig freecodecamp.org
 ## end
 ### subheader
 added in vs code.
+1.open a new tab
