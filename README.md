@@ -5,3 +5,4 @@ from wathchig freecodecamp.org
 ### subheader
 added in vs code.
 1.open a new tab
+2.type your name
